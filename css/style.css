@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-style: italic;
+}
+h2{
+    color: red
+}
+body{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
